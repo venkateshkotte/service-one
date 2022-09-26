@@ -5,6 +5,7 @@ This Service Functionality
    - This API also check the helath status of service-two, service-three, if any one of these three services is down, API returns service down error message.
 2. Provides an API to get concatenated message
    - This API talks to other two services and combine the responses and return the combined response.
+   
 Implemented Using
 1. Spring boot - service developed using spring boot.
 2. Resttemplate -  to communicate with other services
